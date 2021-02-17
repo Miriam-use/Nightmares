@@ -1,4 +1,4 @@
-# Nightmares
+# Survival Shooter
 
 Un juego de disparos de supervivencia
 
