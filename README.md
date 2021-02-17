@@ -40,6 +40,8 @@ Navegue a / Builds / Windows y ejecute el archivo .exe para instalar
 * Se mueve con las teclas de movimiento y dispara al hacer clic o al presionar la tecla Ctrl izquierda . Puntero que se utilizará para establecer la dirección de disparo
 * Empieza con 100 de salud
 
+<img src="Capturas/play.png" />
+
 # Enemigos:
 
 * Zombear: puede atacar cuando está cerca y corre hacia el jugador si está en su línea de visión
@@ -72,3 +74,9 @@ Navegue a / Builds / Windows y ejecute el archivo .exe para instalar
 * Contadores que muestran la ola actual, la puntuación y los enemigos vivos.
 
 # Capturas
+
+<img src="Capturas/menu.png" />
+
+<img src="Capturas/enemy.png" />
+
+<img src="Capturas/gameover.png" />
